@@ -223,8 +223,9 @@
 - Add the hotel name and the country as additional information in the hover message for each city in the map.
 
 
-
 ![Alt text](<WeatherPy/Images/17 city humidity map.png>)
+
+
 
 
 
