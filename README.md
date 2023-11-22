@@ -1,7 +1,12 @@
-# python-api-challenge
- Use the Weather Map API & Shows Visulaizations with Linear Regression  
+# Weather_Map_API_Analysis 
+
+Create a Python script to visualize the weather of over 500
+cities of varying distances from the equator, and use the data skills to plan future vacations
 
 # Weather APIs wiht Linear Regression 
+
+
+![Alt text](WeatherPy/Images/weather_map_api.png)
 
 
 ### 1 Introduction 
